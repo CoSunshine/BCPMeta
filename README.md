@@ -56,6 +56,48 @@ We use Google Workspace as one example:
 
 ```
 
+
+###  review
+```json
+
+{
+ "Name": "Jai Kumar",
+ "reviewTime": "April 10, 2019",
+ "review": "It's quite helpful for me. Now I can access and search answers to important customer questions with Ease.",
+ "grade": "User Rating: 5 stars",
+ "userImg": "https://lh3.googleusercontent.com/a-/AD_cMMROYuLsu7fqsBWL2S5RRxNLrUbRtD1sqlmvUwgy30F7z0im=s40-c-k"
+}
+{
+ "Name": "A User of Zuzu AI for Gmail™",
+ "reviewTime": "May 20, 2019",
+ "review": "Where to find Zuzu AI: Knowledge Assistant for Gmail\nOpen a message in Gmail web or on your Android phone to find applicable add-ons.",
+ "grade": "User Rating: 5 stars",
+ "userImg": "https://lh3.googleusercontent.com/a-/AD_cMMRu5Zy8Z7d4Oe0uOh3FbIUoUWPmGH6fuHmHrGdrXbgrkw=s40-c-k"
+}
+{
+ "Name": "A User of Zuzu AI for Gmail™",
+ "reviewTime": "April 10, 2019",
+ "review": "Great add-on for Sharing Knowledge.",
+ "grade": "User Rating: 5 stars",
+ "userImg": "https://lh3.googleusercontent.com/a/default-user=s40-c-k"
+}
+{
+ "Name": "A User of Zuzu AI for Gmail™",
+ "reviewTime": "May 27, 2019",
+ "review": "fantastic",
+ "grade": "User Rating: 4 stars",
+ "userImg": "https://lh3.googleusercontent.com/a/default-user=s40-c-k"
+}
+{
+ "Name": "A User of Zuzu AI for Gmail™",
+ "reviewTime": "April 10, 2019",
+ "review": "Really Helpful!!!",
+ "grade": "User Rating: 5 stars",
+ "userImg": "https://lh3.googleusercontent.com/a/default-user=s40-c-k"
+}
+
+```
+
 ## Statics Summary:
 Application Number: 4462
 
